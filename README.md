@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulsnips&label=Profile%20views&color=0e75b6&style=flat" alt="vipulsnips" /> </p>
 
-- 🌱 I’m currently learning **Javascript,NodeJS**
+- 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **frontend, competitive programming**
+- 💬 Ask me about **MERN stack, competitive programming**
 
 - 📫 How to reach me **vipulrawat137@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GQT615Bd8GrkfxjeyLumjDAK8av8mgB5/view?usp=drive_link](https://drive.google.com/file/d/1GQT615Bd8GrkfxjeyLumjDAK8av8mgB5/view?usp=drive_link)
 
 - ⚡ Fun fact **"Did you know? When I'm not solving coding problems in record time, I'm probably diving into the depths of frontend magic or leveling up my competitive programming skills!"**
 
