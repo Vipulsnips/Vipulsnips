@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **MERN stack, competitive programming**
+- 💬 Ask me about **Backend Development, competitive programming**
 
 - 📫 How to reach me **vipulrawat137@gmail.com**
 
-- ⚡ Fun fact **"Did you know? When I'm not solving coding problems in record time, I'm probably diving into the depths of frontend magic or leveling up my competitive programming skills!"**
+- ⚡ Fun fact **"Did you know? When I'm not solving coding problems in record time, I'm probably diving into the depths of backend magic or leveling up my competitive programming skills!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
