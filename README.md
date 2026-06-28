@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulsnips&label=Profile%20views&color=0e75b6&style=flat" alt="vipulsnips" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **System Design**
 
 - 💬 Ask me about **Backend Development, competitive programming**
 
